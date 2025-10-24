@@ -1,0 +1,1 @@
+Hello from Lab 2! This file is served by the concurrent server.

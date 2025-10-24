@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Lab 2 — Content</title>
+  <style>
+    :root {
+      --cream: #fbf6f0;
+      --peach: #fde3c9;
+      --black: #221d10;
+      --indigo: #550c72;
+    }
+    body{margin:0;font-family:Inter,system-ui,Arial;background:linear-gradient(135deg,var(--cream),var(--peach));color:var(--black)}
+    .wrap{max-width:920px;margin:40px auto;padding:0 20px}
+    .card{background:#ffffffcc;border:1px solid rgba(34,29,16,.12);border-radius:18px;padding:18px;box-shadow:0 8px 20px rgba(34,29,16,.08)}
+    a{color:var(--indigo)}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1 style="color:var(--indigo)">Lab 2 — Static content page</h1>
+      <p>This is a regular static page. For the dynamic directory with counters open <a href="/">root path</a>.</p>
+      <ul>
+        <li><a href="/books/book1.txt">/books/book1.txt</a></li>
+        <li><a href="/image.png">/image.png</a></li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
