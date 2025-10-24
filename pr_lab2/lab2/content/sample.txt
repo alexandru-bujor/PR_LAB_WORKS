@@ -1,0 +1,1 @@
+Hello from Lab 2 sample file.\n
