@@ -7,8 +7,8 @@
 
 ## Links
 
-- [Laboratory 1](https://github.com/AlexDandy77/NP-FAF-Labs/blob/main/lab1_http/README.md)
-- [Laboratory 2](https://github.com/AlexDandy77/NP-FAF-Labs/blob/main/lab2_concurrent_http/README.md)
+- [Laboratory 1](https://github.com/alexandru-bujor/PR_LAB_WORKS/tree/main/lab1/README.md)
+- [Laboratory 2](https://github.com/alexandru-bujor/PR_LAB_WORKS/tree/main/lab2/README.md)
 
 **Student:** Bujor Alexandru, FAF-231
 
