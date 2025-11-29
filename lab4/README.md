@@ -6,7 +6,7 @@
 
 ```bash
 # 1. Navigate to LAB 4 directory
-cd "LAB 4"
+cd "lab4"
 
 # 2. Create and activate virtual environment
 python3 -m venv venv
@@ -50,7 +50,7 @@ docker-compose down
 deactivate
 ```
 
-**Note**: The leader runs on port **5050** (not 5000) because macOS uses port 5000 for AirPlay. Followers run on ports 5001-5005.
+**Note**: The leader runs on port **5050**.
 
 ---
 
@@ -650,6 +650,7 @@ The visualization shows three key plots:
 **Visual Analysis**:
 
 ![Quorum Analysis Results](tests/quorum_analysis1.1.png)
+![Quorum Analysis Results](tests/quorum_analysis.png)
 
 ### 4. Latency vs Quorum Comparison
 
