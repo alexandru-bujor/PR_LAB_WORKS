@@ -9,7 +9,8 @@
 
 - [Laboratory 1](https://github.com/alexandru-bujor/PR_LAB_WORKS/tree/main/lab1/README.md)
 - [Laboratory 2](https://github.com/alexandru-bujor/PR_LAB_WORKS/tree/main/lab2/README.md)
+- [Laboratory 3](https://github.com/alexandru-bujor/PR_LAB_WORKS/tree/main/lab3/README.md)
 
 **Student:** Bujor Alexandru, FAF-231
 
-**Tech used:** Docker, Python
+**Tech used:** Docker, Python (TS for Lab 3)
